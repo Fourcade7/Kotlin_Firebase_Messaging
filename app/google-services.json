@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248015412588",
+    "project_id": "kotlin-firebase-messagin-759a1",
+    "storage_bucket": "kotlin-firebase-messagin-759a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248015412588:android:d8e51a410adb390ae62749",
+        "android_client_info": {
+          "package_name": "com.pr7.kotlin_firebase_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248015412588-s79foni6qa41lfvbpt9sh9thdl9nqr5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYDKvhoQix7ju-i6GqVNQ9FM88rdle-kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248015412588-s79foni6qa41lfvbpt9sh9thdl9nqr5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
